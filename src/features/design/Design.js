@@ -23,9 +23,9 @@ const Design = () => {
   ]
 
   const case_array = [
-    "Fractal Design R6",
-    "Case 2",
-    "Case 3"
+    "NZXT H710",
+    "NZXT H510",
+    "NZXT H210"
   ]
 
   return <Container fixed>
