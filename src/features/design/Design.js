@@ -25,7 +25,7 @@ const Design = () => {
   const case_array = [
     "NZXT H710",
     "NZXT H510",
-    "NZXT H210"
+    "NZXT H210",
   ]
 
   return <Container fixed>
